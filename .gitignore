@@ -131,3 +131,4 @@ dmypy.json
 # Custom
 condo-env/
 raw_data/
+database.ini
